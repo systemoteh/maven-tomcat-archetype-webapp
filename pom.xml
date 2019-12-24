@@ -9,7 +9,7 @@
     <version>1.0</version>
     <packaging>war</packaging>
 
-    <name>Maven Webapp with Tomcat</name>
+    <name>Maven Webapp Project with Tomcat</name>
     <url>http://www.systemoteh.ru</url>
 
     <properties>

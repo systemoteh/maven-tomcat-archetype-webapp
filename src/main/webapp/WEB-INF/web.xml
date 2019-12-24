@@ -3,5 +3,5 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-  <display-name>Maven Webapp with Tomcat</display-name>
+  <display-name>Maven Webapp Project with Tomcat</display-name>
 </web-app>
